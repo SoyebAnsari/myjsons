@@ -1,0 +1,6 @@
+[
+  {"name":"Laptop" , "Price" : 200} ,
+  {"name":"Mobile" , "Price" : 500} ,
+  {"name":"Desktop" , "Price" : 400} ,
+  {"name":"Macbook" , "Price" : 700} 
+]
